@@ -16,6 +16,13 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.062);
 }
 
+section button {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    width: 60%;
+}
+
 .res {
     margin-top: 20px;
 }
