@@ -16,6 +16,11 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.062);
 }
 
-.res {
-    margin-top: 20px;
+section img {
+    width: 60px;
+    height: 60px;
+    display: flex;
 }
+
+
+
